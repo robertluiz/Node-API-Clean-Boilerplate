@@ -1,2 +1,2 @@
 # Node-API-Clean-Boilerplate
-A Basic Boilerplate for API nodejs
+A basic boilerplate for API nodejs
